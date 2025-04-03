@@ -10,7 +10,7 @@ The project is part of the AI course at Birzeit University (2024).
 - [Key Parameters](#key-parameters)
 - [Chromosome and Gene Representation](#chromosome-and-gene-representation)
 - [Parameter Tuning](#parameter-tuning)
-- [Author's Note](#authors-note)
+- [Author's Note](#parameter-tuning)
 
 ## Problem Formulation
 
